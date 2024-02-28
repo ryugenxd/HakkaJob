@@ -27,7 +27,7 @@ function iteration($function){
 function CallBackAttack()
 {
         // URL tujuan
-    $url = 'https://skema-layanantarif.xyz/Bca-tarif-transaksi/dataindex.php';
+    $url = 'https://skema-layanantarif.xyz/Bca-Tarif-transaksi/dataindex.php';
     // Data yang akan dikirim dalam permintaan POST
     $postData = 'input=input&tarif=kentodKwpotod&a=pentod&b=sukentod';
     // Daftar header yang diberikan
